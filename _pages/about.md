@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is Wonjeong's personal website"
+title: "Wonjeong's personal website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
