@@ -18,10 +18,11 @@ Over the past decades, the economic foundations of marriage have shifted, pointi
 
 
 ## Dissertation Chapter 1 
+- Context when matters? Linking life course labor market contexts with labor market outcomes after family formation 
 
 
 ## Dissertation Chapter 2 
-
+- The (growing/sustained) importance of self-employment for women's labor market attachment
 
 ## Dissertation Chapter 3 
 
