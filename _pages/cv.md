@@ -10,5 +10,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Download paper here](https://github.com/wonjeongwon/wonjeongwon.github.io/blob/master/files/CV_jeong_2022july.pdf)
+[Download CV here](https://github.com/wonjeongwon/wonjeongwon.github.io/blob/master/files/CV_jeong_2022july.pdf)
 
