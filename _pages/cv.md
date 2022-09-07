@@ -12,3 +12,4 @@ redirect_from:
 
 [Download CV here](https://github.com/wonjeongwon/wonjeongwon.github.io/blob/master/files/CV_jeong_2022july.pdf)
 
+<a href="wonjeongwon.github.io/blob/master/files/CV_jeong_2022july.pdf" target="_blank">PDF.</a>
