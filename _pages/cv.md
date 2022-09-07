@@ -12,6 +12,5 @@ redirect_from:
 
 [Download CV here](https://github.com/wonjeongwon/wonjeongwon.github.io/blob/master/files/CV_jeong_2022july.pdf)
 
-<a href="wonjeongwon.github.io/blob/master/files/CV_jeong_2022july.pdf" target="_blank">Download CV Here.</a>
-<object data="../files/CV_jeong_2022july.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 
