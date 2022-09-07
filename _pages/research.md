@@ -8,8 +8,8 @@ author_profile: true
 {% include base_path %}
 
 
-# Solo works 
-
+# Demographic Transition and Gender Inequality in the US
+=====
 ## The Mixed Effects of the Second Gender Revolution: Stagnated Gender Earnings Gap among College Graduates 1980s-2010s (working paper)
 
 **Short abstract**
